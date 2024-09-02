@@ -8,7 +8,7 @@
 ##  昆明&&大理&&丽江游玩计划
 
 ---
-### 活动安排 :+1:
+### 活动安排 :writing_hand:
 ---
 <details open >
 
@@ -32,7 +32,7 @@
 
 </details>
 
-### 住宿 :+1:
+### 住宿 :writing_hand:
 ---
 
 <details open >
@@ -49,7 +49,7 @@
 
 </details>
 
-###  必须要买的票 :+1:
+###  必须要买的票 :writing_hand:
 
 ---
 <details open >
