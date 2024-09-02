@@ -1,3 +1,8 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
 >问题或建议，请微信留言。**[404notfound](#jump_8)**
 ##  昆明&&大理&&丽江游玩计划
 
