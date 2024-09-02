@@ -10,7 +10,8 @@
 ---
 ### 活动安排
 ---
-<details>
+<details open >
+
   <summary>具体</summary>
   
 | 日期   |时间 |景点 |  交通工具|
@@ -35,7 +36,7 @@
 ### 住宿
 ---
 
-<details>
+<details open >
   
 <summary>具体</summary>
   
