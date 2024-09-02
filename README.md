@@ -1,6 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="">
+ <source media="(prefers-color-scheme: light)" srcset="![Uploading d46b480ff16b8e73e0a46465aeca21d7_1.jpg…]()
+">
  <img alt="YOUR-ALT-TEXT" src="![d46b480ff16b8e73e0a46465aeca21d7_1](https://github.com/user-attachments/assets/883b3c36-837d-4270-ab54-c43b54dbb3e7)
 ">
 </picture>
