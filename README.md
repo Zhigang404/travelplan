@@ -12,7 +12,7 @@
 ---
 <details open >
 
-  <summary>具体</summary>
+  <summary> :point_down:</summary>
   
 | 日期   |时间 |景点 |  交通工具|
 |:-----:|:--:|:-------------:|:--: |
@@ -37,7 +37,7 @@
 
 <details open >
   
-<summary>具体</summary>
+<summary> :point_down:</summary>
   
 | 日期   |地点 |
 |:-----:|:--:|
@@ -54,7 +54,7 @@
 ---
 <details open >
   
-<summary>具体</summary>
+<summary> :point_down: </summary>
   
 | 日期   | 地点 | 目的地 | 班次 |
 |:-----:|:--:|:-------------:|:--:|
